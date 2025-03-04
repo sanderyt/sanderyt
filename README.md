@@ -1,6 +1,6 @@
 # Welcome to my Github
 
-# My stats
+## My stats
 
 **Total hours programmed since 28 June 2021**
 
