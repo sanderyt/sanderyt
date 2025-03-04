@@ -5,6 +5,12 @@ My name is Sander van Rijsoort, started programming since I was 19 years old, bu
 **My expertise lies in front-end development with:**
 - React, JavaScript, TypeScript, Next.js, SCSS, TailwindCSS
 
+**Other tools I worked with:**
+- Java (Kotlin)
+- Node.js
+- PHP
+- WordPress
+
 ## My stats
 
 **Total hours programmed since 28 June 2021**
