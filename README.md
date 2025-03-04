@@ -1,17 +1,6 @@
 # Welcome to my Github
 
-My name is Sander van Rijsoort, started programming since I was 19 years old, but professionally I have been a Front-end Developer since 2019 already.
-
-**My expertise lies in front-end development with:**
-- React, JavaScript, TypeScript, Next.js, SCSS, TailwindCSS
-
-**Other tools I worked with:**
-- Java (Kotlin)
-- Node.js
-- PHP
-- WordPress
-
-## My stats
+# My stats
 
 **Total hours programmed since 28 June 2021**
 
